@@ -1,0 +1,51 @@
+contato
+dashboard
+login/ criacao de conta
+index
+anuncios
+criacao de anuncios
+php/mysql
+caixa de busca
+AJAX
+carrinho de compras
+
+
+
+anuncios
+    tags
+    nome
+    preco
+    comentarios
+    resposta
+    relacionados
+    escolha de frete
+
+
+banco de dados
+    login
+    novos anuncios
+    vendas efetuadas
+
+dashboard
+    nome
+    dados
+        vendas efetuadas
+        compras efetuadas
+        historico
+    
+contato
+    caixa de texto
+    publicar
+    numero de contato
+
+criacao de anuncios
+    preco
+    tags
+    taxa site
+
+caixa de busca
+    regEx
+    
+
+COR LOGO
+#E83D44
